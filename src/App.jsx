@@ -42,3 +42,4 @@ function App() {
 }
 
 export default App
+//https://qrgenerator54.netlify.app/ hosted on netlify
